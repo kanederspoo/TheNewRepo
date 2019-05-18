@@ -16,7 +16,7 @@ public class SpoorthiApiController {
 	
 	@PostMapping(value="/test1", produces=MediaType.APPLICATION_JSON_VALUE)
 	public String test1(@RequestBody String j, Integer i) {
-		return "Spoorthi";
+		return "SpoorthiPrateek";
 	}
 
 }
