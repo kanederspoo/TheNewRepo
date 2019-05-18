@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpoorthiApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HP
+Implementation-Vendor-Id: com.spoorthi.api
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/SpoorthiApi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
